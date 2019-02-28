@@ -1,2 +1,0 @@
-# EmmaStory
-xTeam project
